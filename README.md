@@ -1,6 +1,6 @@
 # var
 
-#### soem usefull script collections 
+#### some usefull script collections 
 for me
 --- 
  
